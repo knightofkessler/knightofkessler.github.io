@@ -62,11 +62,12 @@
     padding: 10px;
     margin: 10px;
 
+    border-width: 2px;
     border-bottom-left-radius: 2vw;
     border-bottom-right-radius: 2vw;
 
     color: white;
-    border-color: #2E2FE3;
+    border-color: white;
     background-color: #2E2FE3;
 
     overflow: hidden;
