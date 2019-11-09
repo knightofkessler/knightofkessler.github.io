@@ -2,12 +2,30 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
+    width: 100%;
 }
 
 .content-container {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    flex-grow: 2;
+}
+
+.sidebar-left{
+    color: white;
+    border-color: black;
+    background-color: blue;
+    text-align: left;
+    flex-grow: 1;
+}
+
+.sidebar-right{
+    color: white;
+    border-color: black;
+    background-color: blue;
+    text-align: right;
+    flex-grow: 1;
 }
 
 .content-container > div {
@@ -28,8 +46,7 @@
 }
 
 img {
-    max-width:100%;
-    max-height:100%;
+    scale: 125%;
 
     border-top-left-radius: 2vw;
     border-bottom-right-radius: 2vw;
