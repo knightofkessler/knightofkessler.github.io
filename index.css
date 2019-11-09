@@ -39,7 +39,7 @@
     flex-grow: 1;
 }
 
-.content-container > div {
+.content-entry {
     padding: 10px;
     margin: 10px;
 
