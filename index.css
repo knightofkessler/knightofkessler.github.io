@@ -13,17 +13,19 @@
 }
 
 .sidebar-left{
+    padding: 10px;
     color: white;
-    border-color: black;
-    background-color: blue;
+    border-color: #180D49;
+    background-color: #180D49;
     text-align: left;
     flex-grow: 1;
 }
 
 .sidebar-right{
+    padding: 10px;
     color: white;
-    border-color: black;
-    background-color: blue;
+    border-color: #180D49;
+    background-color: #180D49;
     text-align: right;
     flex-grow: 1;
 }
@@ -35,9 +37,9 @@
     border-top-left-radius: 2vw;
     border-bottom-right-radius: 2vw;
 
-    color: black;
-    border-color: black;
-    background-color: lightblue;
+    color: #180D49;
+    border-color: #180D49;
+    background-color: white;
 
     overflow: hidden;
 
@@ -48,8 +50,7 @@
 img {
     scale: 125%;
 
-    border-top-left-radius: 2vw;
-    border-bottom-right-radius: 2vw;
+    border-radius: 2vw;
 
     display: block;
     margin-left: auto;
@@ -58,4 +59,5 @@ img {
 
 body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #1FBFFF;
 }
