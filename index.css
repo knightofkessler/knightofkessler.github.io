@@ -29,6 +29,8 @@
 .flex-container > div > img {
     scale: 125%;
 
+    border-radius: 20%;
+
     display: block;
     margin-left: auto;
     margin-right: auto;
