@@ -20,7 +20,7 @@
 }
 
 .flex-container > div > img {
-    background-size: contain;
+    border-radius: 10%
 }
 
 body {
