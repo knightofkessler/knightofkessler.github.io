@@ -1,4 +1,9 @@
 .box {
     padding: 10px;
-    color: blue;
+    background-color: blue;
+    color: white;
+}
+
+. {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
