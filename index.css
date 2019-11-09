@@ -13,6 +13,8 @@
     color: white;
     border-color: black;
     background-color: blue;
+
+    overflow: hidden;
     
 }
 
