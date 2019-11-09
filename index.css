@@ -13,6 +13,9 @@
 }
 
 .sidebar-left{
+    
+    border-radius: 2vw;
+    
     padding: 10px;
     color: white;
     border-color: #180D49;
@@ -22,6 +25,8 @@
 }
 
 .sidebar-right{
+    border-radius: 2vw;
+    
     padding: 10px;
     color: white;
     border-color: #180D49;
