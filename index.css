@@ -12,7 +12,7 @@
 
     color: white;
     border-color: black;
-    background-color: blue;
+    background-color: lightblue;
 
     overflow: hidden;
 
@@ -21,7 +21,7 @@
 }
 
 .flex-container > div > img {
-    width: 100%;
+    width: 110%;
 
     display: block;
     margin-left: auto;
