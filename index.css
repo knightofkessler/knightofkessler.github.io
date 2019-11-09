@@ -58,6 +58,25 @@
     
 }
 
+.content-button {
+    padding: 10px;
+    margin: 10px;
+
+    border-bottom-left-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+
+    color: #E0E4EB;
+    border-color: #180D49;
+    background-color: white;
+
+    overflow: hidden;
+
+    text-align: center;
+    
+    text-decoration: none;
+    
+}
+
 img {
     border-radius: 2vw;
     
