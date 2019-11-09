@@ -2,6 +2,7 @@
     display: flex;
     width: 100%;
     justify-content: center;
+    flex-direction: column;
 }
 
 .flex-container > div {
@@ -16,6 +17,10 @@
 
     overflow: hidden;
     
+}
+
+.flex-container > div > img {
+    background-size: contain;
 }
 
 body {
