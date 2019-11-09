@@ -14,7 +14,7 @@
     padding: 10px;
     margin: 10px;
 
-    border-radius: 10%;
+    border-radius: 20%;
 
     color: black;
     border-color: black;
@@ -27,7 +27,7 @@
 }
 
 .flex-container > div > img {
-    scale: 110%;
+    scale: 125%;
 
     display: block;
     margin-left: auto;
