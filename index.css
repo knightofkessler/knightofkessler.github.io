@@ -1,9 +1,13 @@
-.box {
+.flex-container {
+    display: flex;
+}
+
+.flex-box {
     padding: 10px;
     background-color: blue;
     color: white;
 }
 
-. {
+.body {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
