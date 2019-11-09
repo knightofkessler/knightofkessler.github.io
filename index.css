@@ -11,6 +11,7 @@
     flex-direction: column;
     flex-grow: 2;
     background-color: #1FBFFF;
+    border-radius: 2vw;
 }
 
 .sidebar-left{
