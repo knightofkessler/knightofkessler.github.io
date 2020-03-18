@@ -92,10 +92,10 @@
     /* overflow: hidden; */
 
     text-align: center;
-    
-    text-decoration: none;
 
-    font-size: 100%;
+    max-width: 200%;
+    min-width: 50%;
+    height:auto;
 
     border-radius: 0vw;
     
@@ -108,9 +108,9 @@
 
     text-align: center;
     
-    text-decoration: none;
-
-    font-size: 100%;
+    max-width: 200%;
+    min-width: 50%;
+    height:auto;
 
     border-radius: 0vw;
     
@@ -123,9 +123,9 @@
 
     text-align: center;
     
-    text-decoration: none;
-
-    font-size: 100%;
+    max-width: 200%;
+    min-width: 50%;
+    height:auto;
 
     border-radius: 0vw;
     
