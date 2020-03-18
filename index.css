@@ -78,9 +78,10 @@
 }
 
 .content-button {
-    padding: 1%;
-    margin: 2%;
-    margin-top: 2%;
+    padding: 5%;
+    margin: 1%;
+    margin-bottom: -1%;
+    margin-top: 20%;
 
     border-width: 2px;
     border-bottom-left-radius: 2vw;
