@@ -79,7 +79,8 @@
 
 .content-button {
     padding: 1%;
-    margin: 1%;
+    margin: 2%;
+    margin-top: 2%;
 
     border-width: 2px;
     border-bottom-left-radius: 2vw;
