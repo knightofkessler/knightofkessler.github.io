@@ -25,7 +25,7 @@
     border-color: #180D49;
     background-color: white;
     text-align: center;
-    flex-grow: 3;
+    flex-grow: 1;
 }
 
 .sidebar-right{
@@ -36,7 +36,7 @@
     border-color: #180D49;
     background-color: white;
     text-align: center;
-    flex-grow: 3;
+    flex-grow: 1;
 }
 
 .content-entry {
@@ -93,7 +93,7 @@
 
     text-align: center;
 
-    max-width: 150%;
+    max-width: 100%;
     min-width: 50%;
     height:auto;
 
