@@ -79,9 +79,49 @@
 
 .content-button {
     padding: 5%;
-    margin: 1%;
-    margin-bottom: -1%;
+    margin: 5%;
+
+    border-width: 2px;
+    border-bottom-left-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+
+    color: white;
+    border-color: white;
+    background-color: #2E2FE3;
+
+    overflow: hidden;
+
+    text-align: center;
+    
+    text-decoration: none;
+    
+}
+
+.content-button-top {
+    padding: 5%;
+    margin: 5%;
     margin-top: 20%;
+
+    border-width: 2px;
+    border-bottom-left-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+
+    color: white;
+    border-color: white;
+    background-color: #2E2FE3;
+
+    overflow: hidden;
+
+    text-align: center;
+    
+    text-decoration: none;
+    
+}
+
+.content-button-bottom {
+    padding: 5%;
+    margin: 5%;
+    margin-bottom: 20%;
 
     border-width: 2px;
     border-bottom-left-radius: 2vw;
