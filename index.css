@@ -26,7 +26,7 @@
     background-color: white;
     text-align: center;
     flex-grow: 1;
-    min-width: 5%;
+    min-width: 10%;
 }
 
 .sidebar-right{
@@ -38,7 +38,7 @@
     background-color: white;
     text-align: center;
     flex-grow: 1;
-    min-width: 5%;
+    min-width: 10%;
 }
 
 .content-entry {
