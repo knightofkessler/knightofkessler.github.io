@@ -81,15 +81,15 @@
     padding: 5%;
     margin: 10%;
 
-    border-width: 2px;
-    border-bottom-left-radius: 2vw;
-    border-bottom-right-radius: 2vw;
+    /* border-width: 2px; */
+    /* border-bottom-left-radius: 2vw; */
+    /* border-bottom-right-radius: 2vw; */
 
-    color: white;
-    border-color: white;
-    background-color: #2E2FE3;
+    /* color: white; */
+    /* border-color: white; */
+    /* background-color: #2E2FE3; */
 
-    overflow: hidden;
+    /* overflow: hidden; */
 
     text-align: center;
     
@@ -104,16 +104,6 @@
     margin: 10%;
     margin-top: 20%;
 
-    border-width: 2px;
-    border-bottom-left-radius: 2vw;
-    border-bottom-right-radius: 2vw;
-
-    color: white;
-    border-color: white;
-    background-color: #2E2FE3;
-
-    overflow: hidden;
-
     text-align: center;
     
     text-decoration: none;
@@ -126,16 +116,6 @@
     padding: 5%;
     margin: 10%;
     margin-bottom: 10%;
-
-    border-width: 2px;
-    border-bottom-left-radius: 2vw;
-    border-bottom-right-radius: 2vw;
-
-    color: white;
-    border-color: white;
-    background-color: #2E2FE3;
-
-    overflow: hidden;
 
     text-align: center;
     
