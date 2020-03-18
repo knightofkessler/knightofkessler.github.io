@@ -79,7 +79,7 @@
 
 .content-button {
     padding: 5%;
-    margin: 5%;
+    margin: 10%;
 
     border-width: 2px;
     border-bottom-left-radius: 2vw;
@@ -99,7 +99,7 @@
 
 .content-button-top {
     padding: 5%;
-    margin: 5%;
+    margin: 10%;
     margin-top: 20%;
 
     border-width: 2px;
@@ -120,8 +120,8 @@
 
 .content-button-bottom {
     padding: 5%;
-    margin: 5%;
-    margin-bottom: 20%;
+    margin: 10%;
+    margin-bottom: 10%;
 
     border-width: 2px;
     border-bottom-left-radius: 2vw;
