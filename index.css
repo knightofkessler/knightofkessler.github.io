@@ -10,7 +10,6 @@
     justify-content: center;
     flex-direction: column;
     flex-grow: 2;
-    background-color: black;
     border-radius: 2vw;
     padding: 1%;
     margin: 1%;
@@ -153,5 +152,6 @@ img {
 
 body {
     font-family: 'Abel';
-    background-color: #1FBFFF;
+    /*background-color: #1FBFFF;*/
+    background-color: black;
 }
