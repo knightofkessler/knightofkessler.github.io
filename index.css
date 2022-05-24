@@ -22,13 +22,14 @@
     padding: 1%;
     /*color: #180D49;*/
     border-color: white;
-    /*background-color: white;*/
+    background-color: rgba(0,0,0,0.5);
     text-align: center;
     flex-grow: 1;
     min-width: 10%;
     max-width: 15%;
     border-width: thin;
     border-style: solid;
+    
 }
 
 .sidebar-right{
@@ -37,7 +38,7 @@
     padding: 1%;
     /*color: #180D49;*/
     border-color: white;
-    /*background-color: white;*/
+    background-color: rgba(0,0,0,0.5);
     text-align: center;
     flex-grow: 1;
     min-width: 10%;
@@ -55,7 +56,7 @@
 
     /*color: #180D49;*/
     border-color: white;
-    /*background-color: white;*/
+    background-color: rgba(0,0,0,0.5);
 
     overflow: hidden;
 
