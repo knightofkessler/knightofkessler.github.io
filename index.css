@@ -28,6 +28,7 @@
     min-width: 10%;
     max-width: 15%;
     border-width: thin;
+    border-style: solid;
 }
 
 .sidebar-right{
@@ -42,6 +43,7 @@
     min-width: 10%;
     max-width: 15%;
     border-width: thin;
+    border-style: solid;
 }
 
 .content-entry {
@@ -61,6 +63,7 @@
     
     text-decoration: none;
     border-width: thin;
+    border-style: solid;
     
 }
 
@@ -81,7 +84,7 @@
     
     text-decoration: none;
     border-width: thin;
-    
+    border-style: solid;
 }
 
 .content-button {
@@ -105,6 +108,7 @@
     height:auto;
 
     border-radius: 0vw;
+    border-style: solid;
     
 }
 
