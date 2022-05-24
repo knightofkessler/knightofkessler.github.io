@@ -157,5 +157,6 @@ img {
 body {
     font-family: 'Abel';
     /*background-color: #1FBFFF;*/
-    background-color: white;
+    font-color: white;
+    background-color: black;
 }
