@@ -21,7 +21,7 @@
     
     padding: 1%;
     /*color: #180D49;*/
-    border-color: #180D49;
+    border-color: white;
     /*background-color: white;*/
     text-align: center;
     flex-grow: 1;
@@ -35,7 +35,7 @@
     
     padding: 1%;
     /*color: #180D49;*/
-    border-color: #180D49;
+    border-color: white;
     /*background-color: white;*/
     text-align: center;
     flex-grow: 1;
@@ -52,7 +52,7 @@
     border-bottom-right-radius: 2vw;
 
     /*color: #180D49;*/
-    border-color: #180D49;
+    border-color: white;
     /*background-color: white;*/
 
     overflow: hidden;
@@ -72,7 +72,7 @@
     border-bottom-right-radius: 2vw;
 
     /*color: #180D49;*/
-    border-color: #180D49;
+    border-color: white;
     /*background-color: white;*/
 
     overflow: hidden;
