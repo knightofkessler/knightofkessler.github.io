@@ -22,7 +22,7 @@
     padding: 1%;
     /*color: #180D49;*/
     border-color: #180D49;
-    background-color: white;
+    /*background-color: white;*/
     text-align: center;
     flex-grow: 1;
     min-width: 10%;
@@ -36,7 +36,7 @@
     padding: 1%;
     /*color: #180D49;*/
     border-color: #180D49;
-    background-color: white;
+    /*background-color: white;*/
     text-align: center;
     flex-grow: 1;
     min-width: 10%;
@@ -53,7 +53,7 @@
 
     /*color: #180D49;*/
     border-color: #180D49;
-    background-color: white;
+    /*background-color: white;*/
 
     overflow: hidden;
 
@@ -73,7 +73,7 @@
 
     /*color: #180D49;*/
     border-color: #180D49;
-    background-color: white;
+    /*background-color: white;*/
 
     overflow: hidden;
 
@@ -93,7 +93,7 @@
     /* border-bottom-right-radius: 2vw; */
 
     /* color: white; */
-    /* border-color: white; */
+    border-color: white;
     /* background-color: #2E2FE3; */
 
     overflow: auto;
