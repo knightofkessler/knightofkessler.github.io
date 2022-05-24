@@ -152,6 +152,9 @@ img {
     
     max-width: 100%;
     height:auto;
+    
+    border-color: white;
+    border-style: solid;
 
 }
 
