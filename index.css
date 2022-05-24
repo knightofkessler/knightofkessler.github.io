@@ -160,4 +160,5 @@ body {
     color: white;
     background-color: black;
     background-image: url('images/websitebg1.png');
+    background-size: cover;
 }
