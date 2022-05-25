@@ -147,7 +147,7 @@
     
 }
 
-img {
+.body-image {
     border-radius: 2vw;
     
     max-width: 100%;
@@ -155,8 +155,17 @@ img {
     
     border-color: white;
     border-style: solid;
+}
+
+img {
+    border-radius: 2vw;
+    
+    max-width: 100%;
+    height:auto;
 
 }
+
+
 
 body {
     font-family: 'Abel';
